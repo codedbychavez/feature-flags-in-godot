@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\chavez\\Desktop\\Demo game\\Dodge the Creeps with C#.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\chavez\\Desktop\\Demo game\\Dodge the Creeps with C#.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chavez\\Desktop\\Demo game\\Dodge the Creeps with C#.csproj",
+        "projectName": "Dodge the Creeps with C#",
+        "projectPath": "C:\\Users\\chavez\\Desktop\\Demo game\\Dodge the Creeps with C#.csproj",
+        "packagesPath": "C:\\Users\\chavez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chavez\\Desktop\\Demo game\\.mono\\temp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chavez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "ConfigCat.Client": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
